@@ -1,4 +1,4 @@
-##Some important details need to be writed down##
+###Some important details need to be writed down###
 
 ## update .gitignore file to avoid uploading some unnecessary files
 
